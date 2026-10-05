@@ -1,0 +1,3 @@
+Project Development Phase
+
+The Project Development Phase focuses on building the EduGenie application based on the planned design and requirements. The frontend, backend, and Google Gemini API integration are developed and connected. Features such as AI question answering, topic explanations, summaries, and study assistance are implemented, followed by regular testing and debugging to ensure smooth performance.
